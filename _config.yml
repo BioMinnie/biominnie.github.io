@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Melinda Ashcroft"
+title                    : "Melinda M Ashcroft (PhD)"
 title_separator          : "-"
-name                     : &name "Melinda Ashcroft"
+name                     : &name "Melinda M Ashcroft (PhD)"
 description              : &description "personal description"
 url                      : https://biominnie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Melinda M Ashcroft (PhD)"
+  name             : "Melinda Ashcroft"
   avatar           : "Melinda.jpg"
   bio              : "Microbial Genomics and Bioinformatics Scientist | Computational Microbiologist | Consultant  (Biotech) | Scientific Writer and Editor"
   location         : "Melbourne, Australia"
-  employer         : "Freelance researcher and consultant"
+  employer         : "Freelance researcher
+                      and consultant"
   googlescholar    : "https://scholar.google.com.au/citations?user=HgFxnPkAAAAJ&hl=en"
   email            : "melinda.ashcroft@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Melinda_Ashcroft"
