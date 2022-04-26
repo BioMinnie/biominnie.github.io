@@ -85,10 +85,16 @@ author:
   bio              : "Microbial Genomics and Bioinformatics Scientist | Computational Microbiologist | Consultant  (Biotech) | Scientific Writer and Editor"
   location         : "Melbourne, Australia"
   employer         : "Freelance Researcher"
+  links:
+    - label: "Kolabtree"
+      icon: "https://image.kolabtree.com/kolab-logo-black-new-1200.jpg"
+      url: "https://www.kolabtree.com/find-an-expert/melinda-ashcroft"
+    - label: "Publons"
+      icon: "https://publons.com/static/images/logos/full/blue_white.png"
+      url: "https://publons.com/researcher/3247407/melinda-m-ashcroft/"
   googlescholar    : "https://scholar.google.com.au/citations?user=HgFxnPkAAAAJ&hl=en"
   email            : "melinda.ashcroft@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Melinda_Ashcroft"
-  publons          : "https://publons.com/researcher/3247407/melinda-m-ashcroft/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -99,7 +105,6 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  kolabtree        : "https://www.kolabtree.com/find-an-expert/melinda-ashcroft"
   lastfm           :
   linkedin         : "melinda-ashcroft-phd"
   orcid            : "https://orcid.org/0000-0001-9157-4533"
