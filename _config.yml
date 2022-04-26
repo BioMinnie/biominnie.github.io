@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+theme			               : jekyll-theme-modernist
+
 # Site Settings
 locale                   : "en-AU"
 title                    : "Melinda M Ashcroft (PhD)"
@@ -112,8 +114,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kolabtree        : "find-an-expert/melinda-ashcroft"
-  publons          : "researcher/3247407/melinda-m-ashcroft/"
+  kolabtree        : "https://www.kolabtree.com/find-an-expert/melinda-ashcroft"
+  publons          : "https://publons.com/researcher/3247407/melinda-m-ashcroft/"
 
 
 # Reading Files
