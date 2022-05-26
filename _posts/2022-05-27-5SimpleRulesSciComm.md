@@ -23,15 +23,15 @@ Communicating complex scientific concepts in ways that are accessible and readab
 
 Since 2017 I have been involved with the Australian Society of Microbiology (ASM) as a Communications Ambassador, contributing to ASM events, showcasing the work of our researchers, sharing knowledge and conference talks via Twitter and serving as a public advocate for microbiology. With that in mind, I (along with several Twitter contributors) have come up with a list of five simple rules for science communication.
 
-1.     DESIGN YOUR COMMUNICATIONS TO FILL GAPS IN KNOWLEDGE AND KNOW YOUR AUDIENCE
+[1] DESIGN YOUR COMMUNICATIONS TO FILL GAPS IN KNOWLEDGE AND KNOW YOUR AUDIENCE
 ----------
 Good science communication begins with education. When communicating science, we should aim to fill a knowledge gap by presenting current, accurate, and factual information. Science concepts are however complex and deciding where to begin can be one of the biggest barriers to science communication. Don’t try to exhaustively explain your entire thesis or the entire history of evolution – for example. Instead choose a single topic and explain it using analogies and metaphors to familiar everyday examples. For example, “if DNA is a book, then genes are like the words inside that book, with these genes providing instructions for what we are, who we are and what we look like” – Dr Marina Fortes. It is also important to know who your audience is. Your methods for communicating to other scientists (e.g. a presentation at a conference) will be very different compared to how you would communicate to school children (e.g. Science Pen pals programs) or to the general public (e.g. Twitter threads). Thus, it is important to be flexible in your style of presentation. 
 
-2.     KEEP IT SHORT, SIMPLE, AND STRAIGHTFORWARD
+[2] KEEP IT SHORT, SIMPLE, AND STRAIGHTFORWARD
 -----------
 When communicating to non-technical audiences, scientists typically fail to generate clear simple messages and repeat them often [2]. As science communicators, we need to shorten our message, stick to word and time limits and avoid using scientific jargon and abbreviations as much as possible. We want to avoid causing confusion, having audiences ‘switch off’ and avoid coming across as ‘lofty know-it-alls’. Typically, as scientists we are trained to give lots of background details upfront, however when communicating, we need to get to the point and present the number one take home message first, then provide additional explanations. 
 
-3.     SOCIAL MEDIA HELPS SCIENTISTS GET THE MESSAGE ACROSS
+[3] SOCIAL MEDIA HELPS SCIENTISTS GET THE MESSAGE ACROSS
 ----------------
 Social media platforms provide new opportunities for scientists to interact with the public. Technological innovation is important and the use of social media, networking and knowledge sharing platforms such as LinkedIn, Twitter, Facebook, YouTube, and Instagram allow global discussions and interactions. These platforms also open up access to audiences such as minorities, low socio-economic groups and youths. Additionally, social media allows access to policymakers, governments, media, and other scholars. Another example would be how some of our scientists at ASM share knowledge with audiences via journal articles in Microbiology Australia, as well as social media posts on Twitter and Facebook, and blog posts on the ASM website. Our social media communication has varied from live tweeting conference proceedings to job openings and art competitions, from highlighting early career researchers and their work to sharing our journeys into science pathways. In addition to sharing knowledge with the public the use of social media is beneficial to scientists through building professional networks, finding new research, sharing of job adverts and fostering communication and new collaborations regardless of their geographic location [3]. 
 
@@ -42,7 +42,7 @@ Social media platforms provide new opportunities for scientists to interact with
   <sup><sub>Social media for science communication [4]</sub></sup>
 </p>
 
-4.     A PICTURE TELLS A THOUSAND WORDS
+[4] A PICTURE TELLS A THOUSAND WORDS
 -----------------
 We have all heard the adage ‘a picture tells a thousand words’. Visualisations, whether they are images or movies are incredibly important in sharing knowledge and generating excitement from general audiences. People are visual by nature and graphs, illustrations, animations, and videos help make the data supporting your message clear and accessible to your audience and helps your audience retain your message for longer. Additionally, using visuals allows science communicators to reach audiences who may not normally be interested in science, but are captivated by the visual designs. Furthermore, many social media and knowledge sharing platforms have a specific requirement for visuals, particularly in the case of Instagram and YouTube. 
 
@@ -51,7 +51,7 @@ We have all heard the adage ‘a picture tells a thousand words’. Visualisatio
   <sup><sub>Science word cloud: visual representation of text data [5]</sub></sup>
 </p>
 
-5.     SCIENCE COMMUNICATION TRAINING IS IMPORTANT FOR SCIENCE COMMUNICATORS
+[5] SCIENCE COMMUNICATION TRAINING IS IMPORTANT FOR SCIENCE COMMUNICATORS
 ----------------
 Training in basic communication tools and principles is very important to all communicators of science. “When scientists learn better communication skills, they not only convey their research to a broader audience but also become better connected to their own scientific communities” [6]. Science communication is however not yet adequately valued and rewarded, with an over emphasis on grant funding and published papers and a lack of communication training and resources made available to scientists [7]. Currently, there are few formal training courses at the undergraduate or graduate level across universities. Informal training within a scientific setting may include practice presentations in lab meetings, journal clubs and the three minute thesis. Outside of scientific laboratory settings, there are a variety of communication training opportunities including skype a scientist, scientist pen pals with school students, Pint of Science, hosting workshops and seminars, and museum and university open days. Ultimately, not everyone is a teacher and skilled science communication is a fundamental element of science that must be learned and practiced. 
 
