@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 My research interests are in Microbial Genomics, with a focus on the evolution and dissemination of human infectious diseases. I am particularly interested in antimicrobial resistance, mobile genetic elements and genomic epidemiology. I aim to translate my research into both clinical and public health use.
 
 During my studies I realised I could combine my two passions, computers and biology and subsequnetly embarked on a research career with a heavy background in next generation sequencing, genomics and bioinformtics. I have a Masters of Biotechnology, a PhD in Microbial Genomics and research experience as a Postdoctoral Research Fellow in Bioinformatics. 
