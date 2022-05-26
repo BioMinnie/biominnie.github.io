@@ -19,6 +19,7 @@ Specialties: Microbial genomics, Bioinformatics/Computational biology, Phylogeno
 
 <p align="center">
   <img src='/images/microbial_genomics.jpeg' alt="Microbial Genomics and Tool Development">
+  <sup><sub>Source: Relman, D. A. N Engl J Med 2011; 365:347-357</sub></sup>
 </p>
-<sup align="center"><sub>Source: Relman, D. A. N Engl J Med 2011; 365:347-357</sub></sup>
+
 
