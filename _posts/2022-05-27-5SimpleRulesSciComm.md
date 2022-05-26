@@ -37,6 +37,8 @@ Social media platforms provide new opportunities for scientists to interact with
 
 <p align="center">
   <img src='/images/Social_Media.jpeg'>
+</p>
+<p align="center">
   <sup><sub>Social media for science communication [4]</sub></sup>
 </p>
 
