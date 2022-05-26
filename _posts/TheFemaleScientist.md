@@ -1,6 +1,6 @@
 ---
 title: 'Meet Melinda Ashcroft, a Computational Microbiologist interested in scicomm!'
-date: 2022-05-26
+date: 2022-05-27
 permalink: /posts/2022/TheFemaleScientist/
 tags:
   - WomenInSTEM
