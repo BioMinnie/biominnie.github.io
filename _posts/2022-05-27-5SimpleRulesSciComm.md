@@ -48,7 +48,7 @@ We have all heard the adage ‘a picture tells a thousand words’. Visualisatio
 
 <p align="center">
   <img src='/images/Science_Word_Cloud.png'>
-  <sup><sub>science word cloud: visual representation of text data [5]</sub></sup>
+  <sup><sub>Science word cloud: visual representation of text data [5]</sub></sup>
 </p>
 
 5.     SCIENCE COMMUNICATION TRAINING IS IMPORTANT FOR SCIENCE COMMUNICATORS
