@@ -52,6 +52,7 @@ We have all heard the adage ‘a picture tells a thousand words’. Visualisatio
 </p>
 
 5.     SCIENCE COMMUNICATION TRAINING IS IMPORTANT FOR SCIENCE COMMUNICATORS
+----------------
 Training in basic communication tools and principles is very important to all communicators of science. “When scientists learn better communication skills, they not only convey their research to a broader audience but also become better connected to their own scientific communities” [6]. Science communication is however not yet adequately valued and rewarded, with an over emphasis on grant funding and published papers and a lack of communication training and resources made available to scientists [7]. Currently, there are few formal training courses at the undergraduate or graduate level across universities. Informal training within a scientific setting may include practice presentations in lab meetings, journal clubs and the three minute thesis. Outside of scientific laboratory settings, there are a variety of communication training opportunities including skype a scientist, scientist pen pals with school students, Pint of Science, hosting workshops and seminars, and museum and university open days. Ultimately, not everyone is a teacher and skilled science communication is a fundamental element of science that must be learned and practiced. 
 
 Science communication is an incredibly valuable and rewarding skill. The more we talk about science to multiple, varied audiences, the more we increase scientific literacy and increase trust, funding and public support for scientists. 
