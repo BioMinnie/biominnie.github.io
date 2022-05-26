@@ -60,7 +60,7 @@ Twitter: [@BioMinnie](https://twitter.com/BioMinnie)
 
 LinkedIn: [Melinda Ashcroft (PhD)](https://www.linkedin.com/in/melinda-ashcroft-phd/)
 
-REFERENCES: 
+__REFERENCES:__ 
 
 [1] Anderson J and Rainie L. 2017. The Future of Truth and Misinformation Online. Available from [https://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/](https://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/).
 
