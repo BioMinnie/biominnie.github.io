@@ -61,6 +61,7 @@ Twitter: [@BioMinnie](https://twitter.com/BioMinnie)
 LinkedIn: [Melinda Ashcroft (PhD)](https://www.linkedin.com/in/melinda-ashcroft-phd/)
 
 REFERENCES: 
+
 [1] Anderson J and Rainie L. 2017. The Future of Truth and Misinformation Online. Available from [https://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/](https://www.pewinternet.org/2017/10/19/the-future-of-truth-and-misinformation-online/).
 
 [2] Somerville R.C.J and Hassol S.J. 2011. Communicating the science of climate change. Physics Today. Available from: [https://www.climatecommunication.org/wp-content/uploads/2011/10/Somerville-Hassol-Physics-Today-2011.pdf](https://www.climatecommunication.org/wp-content/uploads/2011/10/Somerville-Hassol-Physics-Today-2011.pdf). 
