@@ -106,7 +106,7 @@ Hicks AL, Kissler SM, Mortimer TD, Ma KC, Taiaroa G, __Ashcroft M__, Williamson 
 
 Chhabra Y, Yong HXL, Fane ME, Soogrim A, Lim W, Mahiuddin DN, Kim RSQ, __Ashcroft M__, Beatson SA, Ainger SA, Smit DJ, Jagirdar K, Walker GJ, Sturm RA and Smith AG. Genetic variation in IRF4 expression modulates growth characteristics, tyrosinase expression and interferon-gamma response in melanocytic cells. Pigment Cell Melanoma Res. 2017. 31(1): 51-63. [https://doi.org/10.1111/pcmr.12620](https://doi.org/10.1111/pcmr.12620)
 
-Ben Zakour NL, Alsheikh-Hussain AS*,__Ashcroft MM*__, Khanh Nhu NT*, Roberts LW, Stanton-Cook M, Schembri MA and Beatson SA. Sequential Acquisition of Virulence and Fluoroquinolone Resistance Has Shaped the Evolution of Escherichia coli ST131. mBio. 2016. 7(2): e00347-16. [https://doi.org/10.1128/mBio.00347-16](https://doi.org/10.1128/mBio.00347-16) *Authors contributed equally. 
+Ben Zakour NL, Alsheikh-Hussain AS*, __Ashcroft MM*__, Khanh Nhu NT*, Roberts LW, Stanton-Cook M, Schembri MA and Beatson SA. Sequential Acquisition of Virulence and Fluoroquinolone Resistance Has Shaped the Evolution of Escherichia coli ST131. mBio. 2016. 7(2): e00347-16. [https://doi.org/10.1128/mBio.00347-16](https://doi.org/10.1128/mBio.00347-16) *Authors contributed equally. 
 
 Forde BM, Phan MD, Gawthorne JA, __Ashcroft MM__, Stanton-Cook M, Sarkar S, Peters KM, Chan KG, Chong TM, Yin WF, Upton M, Schembri MA and Beatson SA. Lineage-Specific Methyltransferases Define the Methylome of the Globally Disseminated Escherichia coli ST131 Clone. mBio. 2015. 6(6): e01602-15. [https://doi.org/10.1128/mBio.01602-15](https://doi.org/10.1128/mBio.01602-15)
 
