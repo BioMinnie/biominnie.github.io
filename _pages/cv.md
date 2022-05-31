@@ -32,7 +32,7 @@ __Scientific Consultant (Biotechnology), Obsidian Ventures and Consulting (Mar 2
 __Postdoctoral Research Officer in Bioinformatics (Oct 2019 – Feb 2022). Department of Microbiology and Immunology, The University of Melbourne, Australia.__
   
   Genomic epidemiology of _Neisseria gonorrhoeae_
-  * Department of Microbiology and Immunology, The University of Melbourne, Australia.Genomics of within-host and within-sample population variation
+  * Genomics of within-host and within-sample population variation
   * Phylogenomic and phylodynamic analysis of antimicrobial resistant lineages
   * Longitudinal genomic epidemiology and transmission dynamics
   * Comparative genomics and Nanopore sequencing of complete genomes
