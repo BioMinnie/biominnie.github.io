@@ -118,7 +118,7 @@ __Ashcroft MM__, Chow EPF, Lee DYJ, De Petra V, Soumilas M, Tschaepe M, Zhang L,
 
 Ashcroft MM, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW, White RT, Chan KG, Chong TM, Yin WF, Walsh TR, Paterson DL, Schembri MA and Beatson SA. Genomic characterisation and context of the blaNDM-1 carbapenemase in Escherichia coli ST101. bioRxiv. 2020. [https://doi.org/10.1101/860726](https://doi.org/10.1101/860726)
 
-Ashcroft MM, Forde BM, Peters KM, Phan MD, Chan KG, Chong TM, Yin WF, Walsh TR, Paterson DL, Schembri MA and Beatson SA. Strain and lineage-level methylome heterogeneity in the multi-drug resistant pathogenic Escherichia coli ST101 clone. bioRxiv. 2020.[https://doi.org/10.1101/2020.06.07.138552](https://doi.org/10.1101/2020.06.07.138552)
+Ashcroft MM, Forde BM, Peters KM, Phan MD, Chan KG, Chong TM, Yin WF, Walsh TR, Paterson DL, Schembri MA and Beatson SA. Strain and lineage-level methylome heterogeneity in the multi-drug resistant pathogenic Escherichia coli ST101 clone. bioRxiv. 2020. [https://doi.org/10.1101/2020.06.07.138552](https://doi.org/10.1101/2020.06.07.138552)
   
 Conferences, symposiums and invited seminars
 -------
