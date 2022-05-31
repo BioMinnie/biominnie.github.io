@@ -11,7 +11,7 @@ __ABOUT ME__
 
 My research interests are in Microbial Genomics and bioinformatics, with a focus on the evolution and dissemination of human infectious diseases. I am particularly interested in antimicrobial resistance, mobile genetic elements and genomic epidemiology. I aim to translate my research into both clinical and public health use.
 
-Track record
+Track record:
 - 8 years of microbial genomics and bioinformatics research and technical experience (PhD + Postdoc)
 - 21 presentations and 10 publications
 - Strong data analysis skills (bioinformatics, genomic data analysis, Python and R scripting)
