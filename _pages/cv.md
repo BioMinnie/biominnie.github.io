@@ -204,19 +204,19 @@ FUNDING, HONOURS AND AWARDS
 AREAS OF EXPERTISE
 ==================
 
-__Computers__
+__Computers:__
 
 Unix and Linux systems. Competent using terminal. High Performance Computing Clusters. Microsoft Office Suite and Adobe Creative Suite
 
-__Programming__
+__Programming:__
 
 Intermediate scripting proficiency in Bash, R (inc. Bioconductor) and Python (inc. Biopython, Numpy, Pandas)
 
-__Genomics/Bioinformatics__
+__Genomics/Bioinformatics:__
 
 Next-Generation Sequence analysis – Oxford Nanopore, Pacific Biosciences and Illumina sequencing; genome assembly, genome annotation; comparative genomics; read mapping and variant calling; genome alignments; phylogenetic trees; recombination detection; _in silico_ typing; data visualisation; statistical inference and probability; demonstrated ability to manage, interpret and analyse large and complex datasets
 
-__Research__
+__Research:__
 
 Effective project management; demonstrated interpersonal and teamwork skills; strong organisational and critical-thinking skills; ability to work autonomously; accurate record keeping skills for version control and reproducibility; excellent verbal and written communication skills; endorsed and capable supervisor; proficient science communicator
 
