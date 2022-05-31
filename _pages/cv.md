@@ -13,9 +13,9 @@ EDUCATION
 ======
 * Bachelor of Applied Science (Biotechnology, Biochemistry), Queensland University of Technology, 2005
 * Master of Biotechnology, The University of Queensland, 2013
-Dean's commendation for academic excellence. Course GPA: 6.75/7.00 (96.4%)
+  Dean's commendation for academic excellence. Course GPA: 6.75/7.00 (96.4%)
 * PhD (Microbial Genomics), The University of Queensland, 2019
-Thesis: Evolution and function of mobile genetic elements and DNA methyltransferases in extraintestinal pathogenic _Escherichia coli_.
+  Thesis: Evolution and function of mobile genetic elements and DNA methyltransferases in extraintestinal pathogenic _Escherichia coli_.
 
 RESEARCH EXPERIENCE
 ======
