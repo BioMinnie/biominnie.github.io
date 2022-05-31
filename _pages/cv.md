@@ -60,6 +60,7 @@ __Graduate Researcher – Master of Biotechnology (2013). School of Chemistry an
 TEACHING AND SUPERVISION EXPERIENCE
 ======
 __Guest lecturer – Department of Microbiology and Immunology, The University of Melbourne (2021).__
+  
   MIIM30011 (Medical Microbiology: Bacteriology)
   * Delivered 1-hour guest lecture on N. gonorrhoeae pathogenesis, virulence, antimicrobial resistance, and genomics. Development of multiple-choice questions for examinations
 
@@ -67,6 +68,7 @@ __Co-supervisor – Department of Microbiology and Immunology, The University of
   * Honours student (10% supervisor load). Student awarded first-class honours (88%), which led to first-author publication of thesis chapter in the Journal of Clinical Microbiology (2021)
 
 __Core practicals convenor and lecturer – School of Chemistry and Molecular and Molecular Biosciences, The University of Queensland (2019).__
+  
   BIOL3004 – Genomics and Bioinformatics 3rd year undergraduate course
   * Development of practical materials for 5 practicals and tutor training
   * Development of and grading of assessment (5 quizzes and 1 assignment)
@@ -85,15 +87,13 @@ __Tutoring – Indigenous Tutorial Assistance Scheme. Aboriginal and Torres Stra
 Tutoring – Disability services. Student services – The University of Queensland (2016).
   * Helped to edit master and doctoral theses (Advanced Water Management, Biotechnology)
 
-
-
-
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+RESEARCH AND TEACHING INTERESTS
+======
+>Microbial genomics     Computational Biology     Bioinformatics
+Genomic epidemiology    Comparative genomics      Pathogen evolution
+Phylogenomics           Antimicrobial resistance  Transmission dynamics
+Virulence/Pathogenesis  Methylome/epigenomics     Phylodynamics
+Data visualisation      Biostatistics
 
 Publications
 ======
