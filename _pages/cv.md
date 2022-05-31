@@ -62,7 +62,7 @@ TEACHING AND SUPERVISION EXPERIENCE
 __Guest lecturer – Department of Microbiology and Immunology, The University of Melbourne (2021).__
   
   MIIM30011 (Medical Microbiology: Bacteriology)
-  * Delivered 1-hour guest lecture on N. gonorrhoeae pathogenesis, virulence, antimicrobial resistance, and genomics. Development of multiple-choice questions for examinations
+  * Delivered 1-hour guest lecture on _Niesseria gonorrhoeae_ pathogenesis, virulence, antimicrobial resistance, and genomics. Development of multiple-choice questions for examinations
 
 __Co-supervisor – Department of Microbiology and Immunology, The University of Melbourne (2020).__
   * Honours student (10% supervisor load). Student awarded first-class honours (88%), which led to first-author publication of thesis chapter in the Journal of Clinical Microbiology (2021)
