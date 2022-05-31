@@ -30,6 +30,7 @@ __Scientific Consultant (Biotechnology), Obsidian Ventures and Consulting (Mar 2
   * Data analysis - Designed a 3D risk matrix model for potential therapeutic development
 
 __Postdoctoral Research Officer in Bioinformatics (Oct 2019 – Feb 2022). Department of Microbiology and Immunology, The University of Melbourne, Australia.__
+  
   Genomic epidemiology of _Neisseria gonorrhoeae_
   * Department of Microbiology and Immunology, The University of Melbourne, Australia.Genomics of within-host and within-sample population variation
   * Phylogenomic and phylodynamic analysis of antimicrobial resistant lineages
@@ -37,11 +38,13 @@ __Postdoctoral Research Officer in Bioinformatics (Oct 2019 – Feb 2022). Depar
   * Comparative genomics and Nanopore sequencing of complete genomes
 
 __Research Associate (Feb 2019 – Sep 2019). School of Chemistry and Molecular Biosciences, The University of Queensland, Australia.__
+  
   Genomics and epigenomics of extraintestinal pathogenic _Escherichia coli_
   * Comparative genomics and phylogenomics of antimicrobial resistant lineages
   * Characterising the function and evolution of DNA methylation
 
 __Graduate Researcher- PhD (2014-2019). School of Chemistry and Molecular Biosciences, The University of Queensland, Australia.__
+  
   Genomics and epigenomics of extraintestinal pathogenic _Escherichia coli_
   * Comparative genomics and PacBio sequencing of complete genomes
   * Phylogenomic analysis of antimicrobial resistant lineages
