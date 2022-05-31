@@ -73,9 +73,9 @@ Preprints
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2020.08.24.20181230" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.08.24.20181230" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-### [Genomic characterisation and context of the blaNDM-1 carbapenemase in _Escherichia coli_ ST101](https://doi.org/10.1101/860726)
+  ### [Genomic characterisation and context of the _bla_<sub>NDM-1</sub> carbapenemase in _Escherichia coli_ ST101](https://doi.org/10.1101/860726)
 
-&emsp; __Ashcroft MM__, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW, White RT, Chan KG, Chong TM, Yin WF, Walsh TR, Paterson DL, Schembri MA and Beatson SA. Genomic characterisation and context of the _bla_<sub>NDM-1/sub> carbapenemase in _Escherichia coli_ ST101. *bioRxiv*. 2020. doi: [10.1101/860726](https://doi.org/10.1101/860726)
+&emsp; __Ashcroft MM__, Forde BM, Phan MD, Peters KM, Henderson A, Hancock SJ, Roberts LW, White RT, Chan KG, Chong TM, Yin WF, Walsh TR, Paterson DL, Schembri MA and Beatson SA. Genomic characterisation and context of the _bla_<sub>NDM-1</sub> carbapenemase in _Escherichia coli_ ST101. *bioRxiv*. 2020. doi: [10.1101/860726](https://doi.org/10.1101/860726)
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/860726" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/860726" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
