@@ -27,3 +27,6 @@ Peer Reviewed
 &emsp; Forde BM, Phan MD, Gawthorne JA, __Ashcroft MM__, Stanton-Cook M, Sarkar S, Peters KM, Chan KG, Chong TM, Yin WF, Upton M, Schembri MA and Beatson SA. Lineage-Specific Methyltransferases Define the Methylome of the Globally Disseminated _Escherichia coli_ ST131 Clone. *mBio*. 2015. 6(6): e01602-15. doi: [10.1128/mBio.01602-15](https://doi.org/10.1128/mBio.01602-15)
 
 <span class="__dimensions_badge_embed__" data-doi="10.1128/mBio.01602-15" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1128/mBio.01602-15" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
