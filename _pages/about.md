@@ -9,32 +9,43 @@ redirect_from:
 ---
 __ABOUT ME__
 
-My research interests are in Microbial Genomics and bioinformatics, with a focus on the evolution and dissemination of human infectious diseases. I am particularly interested in antimicrobial resistance, mobile genetic elements and genomic epidemiology. I aim to translate my research into both clinical and public health use.
+My research interests are in human Infectious diseases. I am particularly interested in the evolution, epidemiology, pathogenesis, antimicrobial resistance, and genomics of clinically relevant pathogens. I aim to translate my research into both clinical and public health use.
+
+During my studies I realised I could combine my two passions, computers and biology and subsequently embarked on a research career with a heavy background in epidemiology, genomics, and bioinformatics in infectious diseases. I have a Masters of Biotechnology, a PhD in Microbial Genomics and research experience as a Postdoctoral Fellow and Research Fellow in Australia.
+
+------------------------
+__RESEARCH__
+
+Current research projects focus on:
+- Applied and clinical epidemiology of nontuberculous _Mycobacteria_ (NTM).
+- Geospatial epidemiology of NTM infections associated with climate, weather and the environment.
+- Comparative genomics and genomic epidemiology of Extraintestinal pathogenic _Escherichia coli_ (ExPEC).
+
+Future projects:
+- Genomic epidemiology of NTM with a focus on _Mycobacterium intracellulare_ and _Mycobacterium abscessus_.
+
+Past projects:
+- Genomic epidemiology of antimicrobial-resistant _Neisseria gonorrhoeae_ lineages.
+- Characterising surface polysaccharides and antimicrobial-resistant lineages of _Klebsiella_ spp.
+- Epigenomics and Phylogenomics of ExPEC.
+
+> Research specialties: Infectious Diseases epidemiology, Genomic Epidemiology, Microbial Genomics/Bioinformatics, Transmission Dynamics and Phylogenomics, Pathogen Evolution, Virulome and Resistome, Data Visualisation and Biostatistics. 
 
 Track record:
-- 8 years of microbial genomics and bioinformatics research and technical experience (PhD + Postdoc)
-- 21 presentations and 10 publications
-- Strong data analysis skills (bioinformatics, genomic data analysis, Python and R scripting)
+- 1 year of infectious diseases epidemiology research and technical experience (Research Fellow)
+- 8 years of microbial genomics, bioinformatics, and genomic epidemiology research and technical experience (PhD + Postdoc)
+- 21 presentations (including 8 posters, with 6 as invited speaker).
+- 8 peer reviewed publications, 3 preprints, and 3 conference abstracts published.
+- Awareded $31,886 in grant funding and $5,275 in prizes.
+- Strong data analysis skills (epidemiology, biostatistics, bioinformatics, genomic data analysis, Python and R scripting)
 
-__CURRENT: FREELANCE RESEARCHER AND CONSULTANT__
+------------------------
+__TEACHING__
 
-Please get in touch if you need help with:
-- Research: Comparative genomics, phylogenomics and genomic epidemiology (Microbiology)
-- Technical: Genome assembly, variant calling, genome alignments, phylogenetic trees, recombination detection, _in silico_ typing, genomic data visualisation
-- Preparation of lecture or communication materials (e.g. social media presence, presentations, slides, posters, blog posts, abstracts and summaries)
-- Article and grant writing and editing
+My teaching interests are in Infectious Diseases, Microbiology, Genomics and Bioinformatics, and Biotechnology. 
+- Current co-supervisor of a PhD student at the University of Queensland: Geospatial epidemiology, climate, weather and environmental modelling of nontuberculous mycobacteria.
+- Previous co-supervisor of an Honours student at the University of Melbourne: Improving detection of antimicrobial-resistant _Neisseria gonorrhoeae_ using genomics. Student was awarded First-Class Honours and published a first-author paper of their thesis chapter in _J Clin Microbiol_.
 
-__EDUCATION AND RESEARCH__
-
-During my studies I realised I could combine my two passions, computers and biology and subsequently embarked on a research career with a heavy background in next generation sequencing, genomics and bioinformatics. I have a Masters of Biotechnology, a PhD in Microbial Genomics and research experience as a Postdoctoral Research Fellow in Bioinformatics. 
-
-Current research projects focus on comparative genomics, phylogenomics, genomic epidemiology and epigenomics of bacterial pathogens including Uropathogenic _Escherichia coli_ lineages and _Neisseria gonorrhoeae_. 
-
-> Specialties: Microbial genomics, Bioinformatics/Computational biology, Phylogenomics, Pathogen evolution, Genomic epidemiology, Antimicrobial resistance, Transmission dynamics, Virulence and pathogenesis, Data visualisation, Methylome/Epigenomics and Phylodynamics
-
-<p align="center">
-  <img src='/images/microbial_genomics.jpeg' alt="Microbial Genomics and Tool Development">
-  <sup><sub>Source: Relman, D. A. N Engl J Med 2011; 365:347-357</sub></sup>
-</p>
-
-
+- Guest lecturer: Medical Microbiology: Bacteriology subject at the University of Melbourne: Neisseria gonorrhoeae pathogenesis, antimicrobial resistance and genomics.
+- Core practicals convenor and lecturer: Genomics and Bioinformatics subject at the University of Queensland.
+- Teaching assistant/Tutor at the University of Queensland: Genomics and Bioinformatics, Microbes and Human Health, Human Molecular Genetics and Disease, and Advanced Genome Informatics. 
