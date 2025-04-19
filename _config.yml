@@ -13,7 +13,7 @@ title                    : "Melinda M Ashcroft (PhD)"
 title_separator          : "-"
 name                     : &name "Melinda M Ashcroft (PhD)"
 description              : &description "personal description"
-url                      : https://biominnie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://biominnie.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/BioMinnie"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Melinda Ashcroft"
   avatar           : "Melinda.jpg"
-  bio              : "Microbial Genomics and Bioinformatics Scientist | Computational Microbiologist | Consultant  (Biotech) | Scientific Writer and Editor"
-  location         : "Melbourne, Australia"
-  employer         : "Freelance Researcher"
+  bio              : "Infectious Diseases Epidemiologist (Climate Change) | Microbial Genomics and Bioinformatics Scientist | Scientific Writer, Editor, and Communicator"
+  location         : "Brisbane, Australia"
+  employer         : "The University of Queensland"
   googlescholar    : "https://scholar.google.com.au/citations?user=HgFxnPkAAAAJ&hl=en"
-  email            : "melinda.ashcroft@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Melinda_Ashcroft"
+  email            : 
+  researchgate     : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,15 +105,15 @@ author:
   orcid            : "https://orcid.org/0000-0001-9157-4533"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "BioMinnie"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  bluesky          : "https://bsky.app/profile/biominnie.bsky.social"
   kolabtree        : "https://www.kolabtree.com/find-an-expert/melinda-ashcroft"
   publons          : "https://publons.com/researcher/3247407/melinda-m-ashcroft/"
 
