@@ -38,7 +38,7 @@ Track record:
 - 21 presentations (including 8 posters, with 6 as invited speaker).
 - 8 peer reviewed publications, 3 preprints, and 3 conference abstracts published.
 - Awarded <span>$</span>31,886 in grant funding and <span>$</span>5,275 in prizes.
-- Strong data analysis skills (epidemiology, biostatistics, bioinformatics, genomic data analysis, Python and R scripting)
+- Strong data analysis skills (epidemiology, biostatistics, bioinformatics, genomic data analysis, Python and R scripting).
 
 ------------------------
 __TEACHING__
@@ -46,7 +46,6 @@ __TEACHING__
 My teaching interests are in Infectious Diseases, Microbiology, Genomics and Bioinformatics, and Biotechnology. 
 - Current co-supervisor of a PhD student at the University of Queensland: Geospatial epidemiology, climate, weather and environmental modelling of nontuberculous mycobacteria.
 - Previous co-supervisor of an Honours student at the University of Melbourne: Improving detection of antimicrobial-resistant _Neisseria gonorrhoeae_ using genomics. Student was awarded First-Class Honours and published a first-author paper of their thesis chapter in _J Clin Microbiol_.
-
 - Guest lecturer: Medical Microbiology: Bacteriology subject at the University of Melbourne: _Neisseria gonorrhoeae_ pathogenesis, antimicrobial resistance and genomics.
 - Core practicals convenor and lecturer: Genomics and Bioinformatics subject at the University of Queensland.
 - Teaching assistant/Tutor at the University of Queensland: Genomics and Bioinformatics, Microbes and Human Health, Human Molecular Genetics and Disease, and Advanced Genome Informatics. 
