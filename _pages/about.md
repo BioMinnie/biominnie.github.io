@@ -37,7 +37,7 @@ Track record:
 - 8 years of microbial genomics, bioinformatics, and genomic epidemiology research and technical experience (PhD + Postdoc)
 - 21 presentations (including 8 posters, with 6 as invited speaker).
 - 8 peer reviewed publications, 3 preprints, and 3 conference abstracts published.
-- Awarded \$31,886 in grant funding and \$5,275 in prizes.
+- Awarded <span>$</span>31,886 in grant funding and <span>$</span>5,275 in prizes.
 - Strong data analysis skills (epidemiology, biostatistics, bioinformatics, genomic data analysis, Python and R scripting)
 
 ------------------------
